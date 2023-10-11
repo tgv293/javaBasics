@@ -1,5 +1,4 @@
 public class Programm4 {
-
 	public static void main(String args[]) {
 		Console x = new Console();
 		x.print("Type in radius :");

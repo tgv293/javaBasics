@@ -1,3 +1,5 @@
+package BTPart1;
+
 /**
  * @(#)Tam1.java
  *

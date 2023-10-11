@@ -1,5 +1,5 @@
 public class TestWasedaStudent {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         WasedaStudent  ws1,ws2;
         ws1 =new WasedaStudent("student1","Musashino-shi",1980);
         ws2 =new WasedaStudent("student2","Shinjuku-ku",1981);
